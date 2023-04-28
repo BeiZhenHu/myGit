@@ -1,0 +1,2 @@
+Fine time information for HG/LG threshold at 520 DACu
+Channel_nb fine_time_min fine_time_max 

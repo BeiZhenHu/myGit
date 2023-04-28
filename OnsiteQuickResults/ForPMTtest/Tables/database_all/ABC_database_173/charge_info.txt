@@ -1,0 +1,2 @@
+Maximum charge in HG 
+Channel_nb;  Charge_max_HG 
