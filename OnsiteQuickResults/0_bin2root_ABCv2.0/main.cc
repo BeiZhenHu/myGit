@@ -224,7 +224,7 @@ int main(int argc,char** argv) {
                             cyNB = cycN[ abcChn ][pipo];
                             RunNo= PrevEvtPing[ abcChn ][0].runNB;
                             ChnN = PrevEvtPing[ abcChn ][0].chnNo;
-                            gLH  = PrevEvtPong[ abcChn ][0].lhGain;
+                            gLH  = PrevEvtPing[ abcChn ][0].lhGain;
                             ADCU = PrevEvtPing[ abcChn ][0].qADC;
                             FT   = PrevEvtPing[ abcChn ][0].rFT;
                             CT   = PrevEvtPing[ abcChn ][0].rCT;
