@@ -1,0 +1,2 @@
+Charge Calibration parameters for Preamplifier Gain of 20
+Channel P1_HG_ping P1_err_HG_ping P0_HG_ping P0_err_HG_ping chi2_HG_ping P1_HG_pong P1_err_HG_pong P0_HG_pong P0_err_HG_pong chi2_HG_pong Entries_LG_ping P1_LG_ping Entries_LG_pong P1_LG_pong 
